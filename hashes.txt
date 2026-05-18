@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Desi Rockstar
+
+This log tracks the cryptographic history and versioning for the song **Desi Rockstar** (desi-rockstar).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-18T18:35:04.713829 | `v1` | `c00390977114ad4006dcea9aebe58e6c06c3015459ac779355b0ee80f43e3869` | `1f27fe9cb2c3449e04e4100fabd0a5c4da90bfca3bde0ad4b1db80a345f2dec0` | `2026-05-18_desi-rockstar-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
