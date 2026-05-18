@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/desi-rockstar/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Desi Rockstar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/desi-rockstar/) |
+| **Get License** | [Get License For Desi Rockstar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/desi-rockstar/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan ch nasha tera dil vich thaa
+> Raatan nu jagave teri mithi mithi saah
+> Dhadkan meri utte chalda tera zor
+> Soniye ni tere vargi disdi na hor
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
